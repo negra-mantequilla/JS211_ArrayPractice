@@ -34,7 +34,7 @@
    * Use the `lastIndexOf` method to console.log the index of `Ford` in `totalCars`.
    * Run the program.
 1. `.join()`
-   * Use the `join` method to convert the array `totalCars` into a string called `stringOfCars`.
+   * Use the `join()` method to convert the array `totalCars` into a string called `stringOfCars`.
    * Console.log `stringOfCars`.
    * Run the program.
 1. `.split()`
